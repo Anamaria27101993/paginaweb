@@ -1,0 +1,76 @@
+@options
+@packages
+-classpath
+'C:/Users/Ana maria/.m2/repository/jakarta/platform/jakarta.jakartaee-api/10.0.0/jakarta.jakartaee-api-10.0.0.jar;C:/Users/Ana maria/.m2/repository/jakarta/platform/jakarta.jakartaee-web-api/10.0.0/jakarta.jakartaee-web-api-10.0.0.jar;C:/Users/Ana maria/.m2/repository/jakarta/servlet/jakarta.servlet-api/6.0.0/jakarta.servlet-api-6.0.0.jar;C:/Users/Ana maria/.m2/repository/jakarta/servlet/jsp/jakarta.servlet.jsp-api/3.1.0/jakarta.servlet.jsp-api-3.1.0.jar;C:/Users/Ana maria/.m2/repository/jakarta/el/jakarta.el-api/5.0.1/jakarta.el-api-5.0.1.jar;C:/Users/Ana maria/.m2/repository/jakarta/servlet/jsp/jstl/jakarta.servlet.jsp.jstl-api/3.0.0/jakarta.servlet.jsp.jstl-api-3.0.0.jar;C:/Users/Ana maria/.m2/repository/jakarta/faces/jakarta.faces-api/4.0.1/jakarta.faces-api-4.0.1.jar;C:/Users/Ana maria/.m2/repository/jakarta/ws/rs/jakarta.ws.rs-api/3.1.0/jakarta.ws.rs-api-3.1.0.jar;C:/Users/Ana maria/.m2/repository/jakarta/websocket/jakarta.websocket-api/2.1.0/jakarta.websocket-api-2.1.0.jar;C:/Users/Ana maria/.m2/repository/jakarta/websocket/jakarta.websocket-client-api/2.1.0/jakarta.websocket-client-api-2.1.0.jar;C:/Users/Ana maria/.m2/repository/jakarta/json/jakarta.json-api/2.1.0/jakarta.json-api-2.1.0.jar;C:/Users/Ana maria/.m2/repository/jakarta/json/bind/jakarta.json.bind-api/3.0.0/jakarta.json.bind-api-3.0.0.jar;C:/Users/Ana maria/.m2/repository/jakarta/annotation/jakarta.annotation-api/2.1.1/jakarta.annotation-api-2.1.1.jar;C:/Users/Ana maria/.m2/repository/jakarta/ejb/jakarta.ejb-api/4.0.1/jakarta.ejb-api-4.0.1.jar;C:/Users/Ana maria/.m2/repository/jakarta/transaction/jakarta.transaction-api/2.0.1/jakarta.transaction-api-2.0.1.jar;C:/Users/Ana maria/.m2/repository/jakarta/persistence/jakarta.persistence-api/3.1.0/jakarta.persistence-api-3.1.0.jar;C:/Users/Ana maria/.m2/repository/jakarta/validation/jakarta.validation-api/3.0.2/jakarta.validation-api-3.0.2.jar;C:/Users/Ana maria/.m2/repository/jakarta/interceptor/jakarta.interceptor-api/2.1.0/jakarta.interceptor-api-2.1.0.jar;C:/Users/Ana maria/.m2/repository/jakarta/enterprise/jakarta.enterprise.cdi-api/4.0.1/jakarta.enterprise.cdi-api-4.0.1.jar;C:/Users/Ana maria/.m2/repository/jakarta/enterprise/jakarta.enterprise.lang-model/4.0.1/jakarta.enterprise.lang-model-4.0.1.jar;C:/Users/Ana maria/.m2/repository/jakarta/inject/jakarta.inject-api/2.0.1/jakarta.inject-api-2.0.1.jar;C:/Users/Ana maria/.m2/repository/jakarta/authentication/jakarta.authentication-api/3.0.0/jakarta.authentication-api-3.0.0.jar;C:/Users/Ana maria/.m2/repository/jakarta/security/enterprise/jakarta.security.enterprise-api/3.0.0/jakarta.security.enterprise-api-3.0.0.jar;C:/Users/Ana maria/.m2/repository/jakarta/jms/jakarta.jms-api/3.1.0/jakarta.jms-api-3.1.0.jar;C:/Users/Ana maria/.m2/repository/jakarta/activation/jakarta.activation-api/2.1.0/jakarta.activation-api-2.1.0.jar;C:/Users/Ana maria/.m2/repository/jakarta/mail/jakarta.mail-api/2.1.0/jakarta.mail-api-2.1.0.jar;C:/Users/Ana maria/.m2/repository/jakarta/resource/jakarta.resource-api/2.1.0/jakarta.resource-api-2.1.0.jar;C:/Users/Ana maria/.m2/repository/jakarta/authorization/jakarta.authorization-api/2.1.0/jakarta.authorization-api-2.1.0.jar;C:/Users/Ana maria/.m2/repository/jakarta/batch/jakarta.batch-api/2.1.1/jakarta.batch-api-2.1.1.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/Users/Ana maria/Documents/NetBeansProjects/paginaweb/src/main/java;C:/Users/Ana maria/Documents/NetBeansProjects/paginaweb/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Ana maria/Documents/NetBeansProjects/paginaweb/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'paginaweb-1.0-SNAPSHOT 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/Ana maria/Documents/NetBeansProjects/paginaweb/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'paginaweb-1.0-SNAPSHOT 1.0-SNAPSHOT API'
+com.mycompany.paginaweb
+com.mycompany.paginaweb.resources
+C:\Users\Ana maria\.m2\repository\jakarta\platform\jakarta.jakartaee-api\10.0.0\jakarta.jakartaee-api-10.0.0.jar = 1696724285700
+C:\Users\Ana maria\.m2\repository\jakarta\platform\jakarta.jakartaee-web-api\10.0.0\jakarta.jakartaee-web-api-10.0.0.jar = 1696724286455
+C:\Users\Ana maria\.m2\repository\jakarta\servlet\jakarta.servlet-api\6.0.0\jakarta.servlet-api-6.0.0.jar = 1696724285803
+C:\Users\Ana maria\.m2\repository\jakarta\servlet\jsp\jakarta.servlet.jsp-api\3.1.0\jakarta.servlet.jsp-api-3.1.0.jar = 1696724285853
+C:\Users\Ana maria\.m2\repository\jakarta\el\jakarta.el-api\5.0.1\jakarta.el-api-5.0.1.jar = 1696724285905
+C:\Users\Ana maria\.m2\repository\jakarta\servlet\jsp\jstl\jakarta.servlet.jsp.jstl-api\3.0.0\jakarta.servlet.jsp.jstl-api-3.0.0.jar = 1696724285862
+C:\Users\Ana maria\.m2\repository\jakarta\faces\jakarta.faces-api\4.0.1\jakarta.faces-api-4.0.1.jar = 1696724286073
+C:\Users\Ana maria\.m2\repository\jakarta\ws\rs\jakarta.ws.rs-api\3.1.0\jakarta.ws.rs-api-3.1.0.jar = 1696724286021
+C:\Users\Ana maria\.m2\repository\jakarta\websocket\jakarta.websocket-api\2.1.0\jakarta.websocket-api-2.1.0.jar = 1696724285956
+C:\Users\Ana maria\.m2\repository\jakarta\websocket\jakarta.websocket-client-api\2.1.0\jakarta.websocket-client-api-2.1.0.jar = 1696724286006
+C:\Users\Ana maria\.m2\repository\jakarta\json\jakarta.json-api\2.1.0\jakarta.json-api-2.1.0.jar = 1696724286053
+C:\Users\Ana maria\.m2\repository\jakarta\json\bind\jakarta.json.bind-api\3.0.0\jakarta.json.bind-api-3.0.0.jar = 1696724286091
+C:\Users\Ana maria\.m2\repository\jakarta\annotation\jakarta.annotation-api\2.1.1\jakarta.annotation-api-2.1.1.jar = 1696724286100
+C:\Users\Ana maria\.m2\repository\jakarta\ejb\jakarta.ejb-api\4.0.1\jakarta.ejb-api-4.0.1.jar = 1696724286133
+C:\Users\Ana maria\.m2\repository\jakarta\transaction\jakarta.transaction-api\2.0.1\jakarta.transaction-api-2.0.1.jar = 1696724286160
+C:\Users\Ana maria\.m2\repository\jakarta\persistence\jakarta.persistence-api\3.1.0\jakarta.persistence-api-3.1.0.jar = 1696724286333
+C:\Users\Ana maria\.m2\repository\jakarta\validation\jakarta.validation-api\3.0.2\jakarta.validation-api-3.0.2.jar = 1696724286220
+C:\Users\Ana maria\.m2\repository\jakarta\interceptor\jakarta.interceptor-api\2.1.0\jakarta.interceptor-api-2.1.0.jar = 1696724286272
+C:\Users\Ana maria\.m2\repository\jakarta\enterprise\jakarta.enterprise.cdi-api\4.0.1\jakarta.enterprise.cdi-api-4.0.1.jar = 1696724286350
+C:\Users\Ana maria\.m2\repository\jakarta\enterprise\jakarta.enterprise.lang-model\4.0.1\jakarta.enterprise.lang-model-4.0.1.jar = 1696724286381
+C:\Users\Ana maria\.m2\repository\jakarta\inject\jakarta.inject-api\2.0.1\jakarta.inject-api-2.0.1.jar = 1696724286409
+C:\Users\Ana maria\.m2\repository\jakarta\authentication\jakarta.authentication-api\3.0.0\jakarta.authentication-api-3.0.0.jar = 1696724286486
+C:\Users\Ana maria\.m2\repository\jakarta\security\enterprise\jakarta.security.enterprise-api\3.0.0\jakarta.security.enterprise-api-3.0.0.jar = 1696724286488
+C:\Users\Ana maria\.m2\repository\jakarta\jms\jakarta.jms-api\3.1.0\jakarta.jms-api-3.1.0.jar = 1696724286493
+C:\Users\Ana maria\.m2\repository\jakarta\activation\jakarta.activation-api\2.1.0\jakarta.activation-api-2.1.0.jar = 1696724286501
+C:\Users\Ana maria\.m2\repository\jakarta\mail\jakarta.mail-api\2.1.0\jakarta.mail-api-2.1.0.jar = 1696724286579
+C:\Users\Ana maria\.m2\repository\jakarta\resource\jakarta.resource-api\2.1.0\jakarta.resource-api-2.1.0.jar = 1696724286580
+C:\Users\Ana maria\.m2\repository\jakarta\authorization\jakarta.authorization-api\2.1.0\jakarta.authorization-api-2.1.0.jar = 1696724286579
+C:\Users\Ana maria\.m2\repository\jakarta\batch\jakarta.batch-api\2.1.1\jakarta.batch-api-2.1.1.jar = 1696724286579
+C:\Users\Ana maria\Documents\NetBeansProjects\paginaweb\src\main\java = 1696724253471
+C:\Users\Ana maria\Documents\NetBeansProjects\paginaweb\target\generated-sources\annotations = 1696891172540
+C:\Users\Ana maria\Documents\NetBeansProjects\paginaweb\target\apidocs\allclasses-index.html = 1696891438801
+C:\Users\Ana maria\Documents\NetBeansProjects\paginaweb\target\apidocs\allpackages-index.html = 1696891438804
+C:\Users\Ana maria\Documents\NetBeansProjects\paginaweb\target\apidocs\element-list = 1696891438689
+C:\Users\Ana maria\Documents\NetBeansProjects\paginaweb\target\apidocs\help-doc.html = 1696891438845
+C:\Users\Ana maria\Documents\NetBeansProjects\paginaweb\target\apidocs\index-all.html = 1696891438831
+C:\Users\Ana maria\Documents\NetBeansProjects\paginaweb\target\apidocs\index.html = 1696891438778
+C:\Users\Ana maria\Documents\NetBeansProjects\paginaweb\target\apidocs\jquery-ui.overrides.css = 1696891438870
+C:\Users\Ana maria\Documents\NetBeansProjects\paginaweb\target\apidocs\member-search-index.js = 1696891438815
+C:\Users\Ana maria\Documents\NetBeansProjects\paginaweb\target\apidocs\module-search-index.js = 1696891438804
+C:\Users\Ana maria\Documents\NetBeansProjects\paginaweb\target\apidocs\overview-summary.html = 1696891438836
+C:\Users\Ana maria\Documents\NetBeansProjects\paginaweb\target\apidocs\overview-tree.html = 1696891438769
+C:\Users\Ana maria\Documents\NetBeansProjects\paginaweb\target\apidocs\package-search-index.js = 1696891438811
+C:\Users\Ana maria\Documents\NetBeansProjects\paginaweb\target\apidocs\script.js = 1696891438853
+C:\Users\Ana maria\Documents\NetBeansProjects\paginaweb\target\apidocs\search.js = 1696891438856
+C:\Users\Ana maria\Documents\NetBeansProjects\paginaweb\target\apidocs\stylesheet.css = 1696891438849
+C:\Users\Ana maria\Documents\NetBeansProjects\paginaweb\target\apidocs\tag-search-index.js = 1696891438817
+C:\Users\Ana maria\Documents\NetBeansProjects\paginaweb\target\apidocs\type-search-index.js = 1696891438813

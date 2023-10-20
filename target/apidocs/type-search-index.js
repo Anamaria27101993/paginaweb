@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.mycompany.paginaweb.resources","l":"JakartaEE10Resource"},{"p":"com.mycompany.paginaweb","l":"JakartaRestConfiguration"}];updateSearchResults();
